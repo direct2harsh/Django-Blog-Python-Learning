@@ -40,10 +40,13 @@ I assume you already setup your django development with virtual enviroment (virt
 $ virtualenv --python=/usr/bin/python3 yourenv
 $ source bin/activate
 ```
-        or
- you can use pipenv as the virtual environment.
-$ pip install pipenv
-$ pipenv shell     (This will create a virtual environment in the current directory.)
+
+
+you can use pipenv as the virtual environment.<br/>
+$  pip install pipenv <br/>
+$  pipenv shell     (This will create a virtual environment in the current directory.)<br/>
+
+ 
  
 
 **2. Cloning this project**
